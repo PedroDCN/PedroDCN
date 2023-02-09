@@ -15,9 +15,6 @@ exploring functional programming and AI development.
   <a href='https://www.linkedin.com/in/pedro-d-b34218125/' target="_blank">
     <img alt='linkedin badge' src='https://img.shields.io/badge/LinkedIn-fafafa?style=for-the-badge&logo=Linkedin&color=2f2f2f' title='LinkedIn'>
   </a>
-  <a href='https://twitter.com/DocDCN' target="_blank">
-    <img alt='twitter badge' src='https://img.shields.io/badge/twitter-fafafa?style=for-the-badge&logo=twitter&logoColor=fafafa&color=2f2f2f' title='Twitter'>
-  </a>
 </div>
 
 ## Techs I'm comfortable using:
