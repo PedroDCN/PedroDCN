@@ -12,7 +12,7 @@ exploring functional programming and AI development.
   <a href='mailto:pedro.neto@ccc.ufcg.edu.br' target="_blank">
     <img alt='gmail badge' src='https://img.shields.io/badge/gmail-fafafa?style=for-the-badge&logo=gmail&logoColor=fafafa&color=2f2f2f' title='Gmail'>
   </a>
-  <a href='https://www.linkedin.com/in/pedro-d-b34218125/' target="_blank">
+  <a href='https://www.linkedin.com/in/pedro-donato/' target="_blank">
     <img alt='linkedin badge' src='https://img.shields.io/badge/LinkedIn-fafafa?style=for-the-badge&logo=Linkedin&color=2f2f2f' title='LinkedIn'>
   </a>
 </div>
